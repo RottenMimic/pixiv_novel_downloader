@@ -42,7 +42,7 @@ function myScript(){
 		if(c2<0){break;}
 		tmp=content.slice(c1+9,c2);
 			
-		content=[content.slice(0,c1),tmp,'［＃',tmp,'」は中見出し］',content.slice(c2+1)].join('');
+		content=[content.slice(0,c1),tmp,'［＃「',tmp,'」は中見出し］',content.slice(c2+1)].join('');
 	}
 	
 	//ruby
@@ -53,7 +53,7 @@ function myScript(){
 		if(c2<0){break;}
 		tmp=content.slice(c1+5,c2);
 		tmp=tmp.replace(' > ','《')+'》';
-		content=(content.slice(0,c1),tmp,content.slice(c2+2)).join('');
+		content=[content.slice(0,c1),tmp,content.slice(c2+2)].join('');
 	}
 	
 	//new page
