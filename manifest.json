@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Pixiv Novel Downloader",
-  "description": "Download Pixiv novel to simple txt file. This version only transfer to AozoraBunko format",
+  "name": "__MSG_appName__",
+  "description": "__MSG_appCaption__",
+  "default_locale": "en",
   "version": "0.1",
 
   "permissions": [

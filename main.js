@@ -1,4 +1,6 @@
-﻿var raw_novel=document.getElementById("novel_text").textContent;
+﻿//console.log(chrome.i18n.getMessage("appName"));
+
+var raw_novel=document.getElementById("novel_text").textContent;
 
 var title=document.querySelector(".layout-body h1.title").textContent;
 
@@ -30,7 +32,31 @@ function myScript(){
 	
 	//format content
 	var content=raw_novel;
-	tmp='';
+	
+	//remove image, links
+	var remove_format=function(s1){
+			while(true){
+				c1=content.indexOf(s1);
+				if(c1<0 || c1>content.length){break;}
+				c2=content.indexOf(']',c1);
+				if(c2<0){break;}
+				content=[content.slice(0,c1),content.slice(c2+1)].join('');
+			}
+		}
+	remove_format('[pixivimage:');
+	remove_format('[jump:');
+	
+	while(true){
+		c1=content.indexOf('[[jumpuri:');
+		if(c1<0 || c1>content.length){break;}
+		c2=content.indexOf(']]',c1);
+		if(c2<0){break;}
+		tmp=content.slice(c1+10,c2);
+		
+		content=[content.slice(0,c1),tmp.split('>')[0],content.slice(c2+2)].join('');
+	}
+	
+	//newline
 	content=content.replace(/\n/g,'\r\n');
 	content=content.replace(/\r\r/g,'\r');
 	
