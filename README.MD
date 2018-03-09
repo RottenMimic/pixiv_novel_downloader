@@ -47,4 +47,4 @@ next update:
 ## License
 
 This project is only for private use.
-You can't edit it for self use, but don't redistribute without credit.
+You can edit it for self use, but don't redistribute without credit.
