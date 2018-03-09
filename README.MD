@@ -4,7 +4,7 @@ A Chrome extension to quickly and simply download pixiv novel to text files.
 
 ## SnapShot
 
-![Add a button before title](https://drive.google.com/uc?id=1397gSqG6xRJqZ3Hn3NSdFKMjP_g9W00t "SnapShot")
+![Add a button before title](https://drive.google.com/uc?id=1LoL1nN9smNRJ9bQwo_u3H7tNWOV6ikAi "SnapShot")
 
 ## Getting Started
 
