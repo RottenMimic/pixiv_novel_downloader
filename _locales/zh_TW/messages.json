@@ -4,5 +4,56 @@
 	},
 	"appCaption": {
 		"message": "一鍵將Pixiv小說下載成純文字檔"
+	},
+	"page_title": {
+		"message": "修改格式"
+	},
+	"aozora": {
+		"message": "青空文庫"
+	},
+	"plain": {
+		"message": "純文字"
+	},
+	"title": {
+		"message": "標題"
+	},
+	"author": {
+		"message": "作者"
+	},
+	"caption": {
+		"message": "描述"
+	},
+	"datetime": {
+		"message": "日期"
+	},
+	"tags": {
+		"message": "標籤"
+	},
+	"url": {
+		"message": "網址"
+	},
+	"content_aozora": {
+		"message": "本文（青空文庫）"
+	},
+	"content_plain_text": {
+		"message": "本文（純文字）"
+	},
+	"content_raw": {
+		"message": "本文（原始格式）"
+	},
+	"save": {
+		"message": "存檔"
+	},
+	"advance_button": {
+		"message": "進階"
+	},
+	"simple_button": {
+		"message": "基本"
+	},
+	"help": {
+		"message": "說明"
+	},
+	"response_tx": {
+		"message": "已存檔"
 	}
 }

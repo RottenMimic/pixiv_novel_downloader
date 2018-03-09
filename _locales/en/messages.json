@@ -1,8 +1,59 @@
-{
+﻿{
 	"appName":{
 		"message": "Pixiv Novel Downloader"
 	},
 	"appCaption": {
 		"message": "Download Pixiv novel to text file simply and quickly."
+	},
+	"page_title": {
+		"message": "Format"
+	},
+	"aozora": {
+		"message": "Aozora"
+	},
+	"plain": {
+		"message": "Plain-Text"
+	},
+	"title": {
+		"message": "title"
+	},
+	"author": {
+		"message": "author"
+	},
+	"caption": {
+		"message": "caption"
+	},
+	"datetime": {
+		"message": "datetime"
+	},
+	"tags": {
+		"message": "tags"
+	},
+	"url": {
+		"message": "url"
+	},
+	"content_aozora": {
+		"message": "content_aozora"
+	},
+	"content_plain_text": {
+		"message": "content_plain_text"
+	},
+	"content_raw": {
+		"message": "content_raw"
+	},
+	"save": {
+		"message": "Save"
+	},
+	"advance_button": {
+		"message": "Advance"
+	},
+	"simple_button": {
+		"message": "Basic"
+	},
+	"help": {
+		"message": "Help"
+	},
+	"response_tx": {
+		"message": "saved"
 	}
 }

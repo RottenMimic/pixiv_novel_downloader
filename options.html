@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Pixiv Novel Downloader</title>
+	<style>
+		body {
+			text-align: center;
+		}
+		textarea {
+			width: 100%;
+			height: 10em;
+		}
+		#format_button span{
+			background-color:  #e6e6e6;
+			cursor: pointer;
+			border-radius: 3px;
+			padding: 0.33em;
+			line-height: 3em;
+			margin-right: 0.33em;
+		}
+		#format_button span:hover{
+			background-color: #cce6ff;
+		}
+		#response {
+			color: #ff66ff;
+		}
+  </style>
+</head>
+<body>
+<h1 id="page_title">Format</h1>
+<section id="section_simple">
+	<p><label><input type="radio" name="novel_type" value="aozora"checked /><span id="aozora">Aozora</span></label></p>
+	<p><label><input type="radio" name="novel_type" value="plain" /><span id="plain">Plain-text</span></label></p>
+</section>
+<section id="section_advance" style="display: none;">
+	<p id="format_button">
+		<span id="title">title</span>
+		<span id="author">author</span>
+		<span id="caption">caption</span>
+		<span id="datetime">datetime</span>
+		<span id="tags">tags</span>
+		<span id="url">url</span>
+		<br />
+		<span id="content_aozora">content-aozora</span>
+		<span id="content_plain_text">content-plain-text</span>
+		<span id="content_raw">content-raw</span>
+	</p>
+	<p><textarea id="temp_text"></textarea></p>
+</section>
+<p id="response">&nbsp;</p>
+<p><input type="submit" id="save" value="Save" /></p>
+<p><a href="#" id="advance_button">&gt; advance &lt;</a></p>
+<p><a href="https://github.com/RottenMimic/pixiv_novel_downloader" id="help">help</a></p>
+<script src="options.js"></script>
+</body>
+</html>

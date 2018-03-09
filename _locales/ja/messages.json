@@ -4,5 +4,56 @@
 	},
 	"appCaption": {
 		"message": "ワンクリックでPixiv小説をテキストファイルに"
+	},
+	"page_title": {
+		"message": "フォーマット"
+	},
+	"aozora": {
+		"message": "青空文庫"
+	},
+	"plain": {
+		"message": "テキスト"
+	},
+	"title": {
+		"message": "タイトル"
+	},
+	"author": {
+		"message": "作者"
+	},
+	"caption": {
+		"message": "キャプション"
+	},
+	"datetime": {
+		"message": "日期"
+	},
+	"tags": {
+		"message": "タッグ"
+	},
+	"url": {
+		"message": "url"
+	},
+	"content_aozora": {
+		"message": "本文（青空文庫）"
+	},
+	"content_plain_text": {
+		"message": "本文（テキスト）"
+	},
+	"content_raw": {
+		"message": "本文（オリジナル）"
+	},
+	"save": {
+		"message": "セーブ"
+	},
+	"advance_button": {
+		"message": "上級設定"
+	},
+	"simple_button": {
+		"message": "基本設定"
+	},
+	"help": {
+		"message": "説明"
+	},
+	"response_tx": {
+		"message": "セーブが完了しました"
 	}
 }

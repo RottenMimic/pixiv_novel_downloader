@@ -7,7 +7,8 @@
   "version": "0.1",
 
   "permissions": [
-	 "https://www.pixiv.net/novel/show.php?id=*"
+		"https://www.pixiv.net/novel/show.php?id=*",
+		"storage"
   ],
   
   "content_scripts": [
@@ -16,5 +17,10 @@
       "matches": ["https://www.pixiv.net/novel/show.php?id=*"],
       "js": ["main.js"]
     }
-  ]
+  ],
+  
+  "options_ui":{
+		"page": "options.html",
+		"chrome_style": true
+  }
 }
