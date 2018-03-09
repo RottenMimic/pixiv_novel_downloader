@@ -15,9 +15,9 @@ If you aren't accustomed to it, goole "add extension to chrome manually" will he
 
 ## About template format
 
-content_aozora: aozora-bunko format
-content_plain_text: remove all format
-content_raw: the original pixiv format
+* content_aozora: aozora-bunko format
+* content_plain_text: remove all format
+* content_raw: the original pixiv format
 
 ## Versions
 
