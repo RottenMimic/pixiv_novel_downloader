@@ -4,7 +4,7 @@
   "name": "__MSG_appName__",
   "description": "__MSG_appCaption__",
   "default_locale": "en",
-  "version": "0.1",
+  "version": "1",
 
   "permissions": [
 		"https://www.pixiv.net/novel/show.php?id=*",
