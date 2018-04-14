@@ -39,18 +39,6 @@ Text file only in AozoraBunko format. I use AozoraEpub3 to convert it to wonderf
 
 Ver 1 done. Only fix bug currently.
 
-## Author
-
-**RottenMimic**
-[Email](mailto:marvel.bunny@gmail.com)
-[MailForm](https://docs.google.com/forms/d/e/1FAIpQLSewVuRO13P98mKL8YycIENfG6zu67Jyo3ntFtdHNS_bUXbdHQ/viewform)
-
-## License
-
-This project is only for private use.  
-You can edit it for self use, but don't redistribute without credit.  
-Email is welcome if you need any other function.  
-
 ---
 ### traditional_chinese
 # Pixiv Novel Downloader
@@ -79,18 +67,6 @@ Email is welcome if you need any other function.
 ## 未來更新
 
 第一版已完成，現階段只修改Bug
-
-## Author
-
-**RottenMimic**
-[Email](mailto:marvel.bunny@gmail.com)
-[表單](https://docs.google.com/forms/d/e/1FAIpQLSewVuRO13P98mKL8YycIENfG6zu67Jyo3ntFtdHNS_bUXbdHQ/viewform)
-
-## License
-
-這個程式只限個人使用  
-你可以自行修改內容讓它更好用，但請不要自行發布  
-有想要的功能請寫Email來  
 
 ---
 ### simplied_chinese
@@ -121,18 +97,6 @@ Email is welcome if you need any other function.
 
 第一版已完成，现阶段只修改Bug
 
-## Author
-
-**RottenMimic**
-[Email](mailto:marvel.bunny@gmail.com)
-[表单](https://docs.google.com/forms/d/e/1FAIpQLSewVuRO13P98mKL8YycIENfG6zu67Jyo3ntFtdHNS_bUXbdHQ/viewform)
-
-## License
-
-这个程式只限个人使用  
-你可以自行修改内容让它更好用，但请不要自行发布  
-有想要的功能请写Email来  
-
 ---
 ### japanese
 # Pixiv Novel Downloader
@@ -160,16 +124,3 @@ Pixiv小説をワンクリックでダウンロードするためのChrome拡張
 ## 未來の更新
 
 V.1完成。今はバグを治すだけ。
-
-## 作者
-
-**RottenMimic**
-[Email](mailto:marvel.bunny@gmail.com)
-[メールフォン](https://docs.google.com/forms/d/e/1FAIpQLSewVuRO13P98mKL8YycIENfG6zu67Jyo3ntFtdHNS_bUXbdHQ/viewform)
-
-## ライセンス
-
-このAppは個人使用限りです。  
-改造は自由にどうぞ、ただし再配布が駄目  
-欲しい機能があればemailかメールフォンでお願いします。  
-外国人なのでダメ口で。  
