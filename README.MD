@@ -1,5 +1,11 @@
 [繁體中文](#traditional_chinese) [简体中文](#simplied_chinese) [日本語](#japanese)
 
+# Recent Update
+2018-3-9
+1. add user interface, now you can edit template
+2. locale(app)
+v1 done
+
 # Pixiv Novel Downloader
 
 A Chrome extension to quickly and simply download pixiv novel to text files.
