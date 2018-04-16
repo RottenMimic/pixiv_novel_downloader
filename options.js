@@ -14,8 +14,8 @@ response_tx=chrome.i18n.getMessage('response_tx');
 
 
 var temp_obj=document.getElementById("temp_text");
-var default_aozora=['[title]','[author]','','★[tags]','','[content_aozora]','','[datetime]','[url]'].join('\n');
-var default_plain=['[title]','[author]','','★[tags]','','[content_plain_text]','','[datetime]','[url]'].join('\n');
+var default_aozora=['[title]','[author]','','[caption]','','★[tags]','','[content_aozora]','','[datetime]','[url]'].join('\n');
+var default_plain=['[title]','[author]','','[caption]','','★[tags]','','[content_plain_text]','','[datetime]','[url]'].join('\n');
 
 function releaseCheck(){
 	var obj=document.getElementsByName("novel_type");
