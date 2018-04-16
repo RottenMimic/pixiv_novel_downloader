@@ -1,7 +1,7 @@
 ﻿var raw_novel=document.getElementById("novel_text").textContent;
 var raw_template='';
 var title=document.querySelector(".layout-body h1.title").textContent;
-var default_template=['[title]','[author]','','★[tags]','','[content_aozora]','','[datetime]','[url]'].join('\n');
+var default_template=['[title]','[author]','','[caption]','','★[tags]','','[content_aozora]','','[datetime]','[url]'].join('\n');
 
 //add download button
 var click_button=document.createElement('a');
